@@ -4,7 +4,10 @@ __pycache__/
 *.pyo
 
 # Ignore datasets and large files
-Dataset/ 
+Dataset/**/*.txt 
+Dataset/**/*.jpg 
+
+Dataset/SplitData/**/*.jpg
 
 runs/
 
