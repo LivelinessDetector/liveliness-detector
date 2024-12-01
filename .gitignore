@@ -1,0 +1,23 @@
+# Ignore Python compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Ignore datasets and large files
+Dataset/ 
+
+runs/
+
+# Ignore environment and dependency files
+*.env
+*.venv
+*.egg-info
+*.log
+
+# Ignore IDE-specific files
+.vscode/
+.idea/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
