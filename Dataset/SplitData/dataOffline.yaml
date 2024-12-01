@@ -1,0 +1,7 @@
+path: /Users/parth/PycharmProjects/AntiSpoofing/Dataset/SplitData/
+train: train/images
+test: test/images
+val: val/images
+
+nc: 2
+names: ['fake', 'real']
