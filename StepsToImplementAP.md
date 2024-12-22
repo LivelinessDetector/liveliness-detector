@@ -4,6 +4,6 @@
 docker pull livelinessdetector/liveliness-detector:latest
 
 # Run the Docker Container
-docker run -p 8000:8000 username/liveliness-detector:latest
+docker run -p 8000:8000 livelinessdetector/liveliness-detector:latest
 
 # Refer the TestWebsite Folder for implementation code
